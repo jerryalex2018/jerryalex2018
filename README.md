@@ -1,5 +1,5 @@
-# 👋 Hi, I'm [Your Name]!
-### 🚀 [Your Current Role, e.g., Full-Stack Developer / UI Designer / Computer Science Student]
+# 👋 Hi, I'm Jerry Okoth
+### 🚀 IT Student 
 
 <p align="left">
   <img src="https://shields.io[Your%20City,%20Country]-blue?style=flat-square" alt="Location">
@@ -9,11 +9,11 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **[Name of a main project or your current job]**
-- 🌱 I’m currently learning **[A tool, framework, or language you are picking up]**
-- 👯 I’m looking to collaborate on **[Type of open-source projects or ideas]**
-- 💬 Ask me about **[Topics you love discussing, e.g., React, Python, UI Design]**
-- ⚡ Fun fact: **[Share something interesting or lighthearted about yourself!]**
+- 🔭 I’m currently working on **Some react and js projects**
+- 🌱 I’m currently learning **react and react native,nodejs/express**
+- 👯 I’m looking to collaborate on **Open source community projects and to learn from you guys**
+- 💬 Ask me about **Deployment and hosting**
+- ⚡ Fun fact: **I look forward to contributing and sharing my knowledge to the ones who reach out to me**
 
 ---
 
@@ -58,7 +58,6 @@
     <img src="https://shields.io" alt="Email">
   </a>
 </p>
-## Hi there 👋
 
 <!--
 **jerryalex2018/jerryalex2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
